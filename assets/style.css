@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(228 201 229);
+    font-family: 'Playpen Sans', cursive;
+} 
+
+.card {
+    width: 100px; /* Adjust the card width and height as needed */
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #ccc;
+    margin: 5px;
+  }
+  
